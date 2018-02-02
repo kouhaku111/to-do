@@ -1,0 +1,6 @@
+HTTP Method *   URL                                               *   Action
+GET         *   http://[hostname]/todo/api/v1.0/tasks             *   Retrieve list of tasks
+GET         *   http://[hostname]/todo/api/v1.0/tasks/[task_id]   *   Retrieve a task
+POST        *   http://[hostname]/todo/api/v1.0/tasks             *   Create a new task
+PUT         *   http://[hostname]/todo/api/v1.0/tasks/[task_id]   *   Update existing task
+DELETE      *   http://[hostname]/todo/api/v1.0/tasks/[task_id]   *   Delete a task
